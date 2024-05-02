@@ -1,0 +1,5 @@
+.venv/
+$*
+BoxOffice*
+class_schedule*
+PythontoExcel.xlsx*
